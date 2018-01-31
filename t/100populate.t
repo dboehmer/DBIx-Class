@@ -1,6 +1,8 @@
 use strict;
 use warnings;
 
+die;
+
 use Test::More;
 use Test::Exception;
 use Test::Warn;
